@@ -1,0 +1,9 @@
+id_usuario,nombre_usuario,id_libro,titulo_libro,fecha_prestamo,fecha_devolucion
+1001,Ana López,LIB001,El Principito,2025-07-01,2025-07-10
+1002,Carlos Ramírez,LIB002,Cien Años de Soledad,2025-07-03,
+1003,Lucía Méndez,LIB003,1984,2025-07-05,
+1001,Ana López,LIB004,Don Quijote de la Mancha,2025-07-06,
+1004,Mario Gómez,LIB001,El Principito,2025-07-07,
+1002,Carlos Ramírez,LIB005,Fahrenheit 451,2025-07-08,2025-07-15
+1005,Elena Ruiz,LIB006,Crónica de una Muerte Anunciada,2025-07-09,
+1003,Lucía Méndez,LIB002,Cien Años de Soledad,2025-07-09,2025-07-17
