@@ -1,2 +1,2 @@
-# Equipo-de-2-16
+# Equipo-de-2 #16
 Proyecto Lenguajes 
